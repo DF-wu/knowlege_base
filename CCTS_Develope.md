@@ -2,7 +2,7 @@
 # CCTS Develope
 [TOC]
 
-
+[![hackmd-github-sync-badge](https://hackmd.io/ghDjiwZsSJqweHu5nOBaew/badge)](https://hackmd.io/ghDjiwZsSJqweHu5nOBaew)
 
 # Motivation
 ## 研究目標
